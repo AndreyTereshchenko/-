@@ -36,7 +36,7 @@ header{
     margin-right: 5vw;
        width: 10vw;
     height: 6vh;
-    background-image: url(./Pictures/Снимок\ 1.PNG);
+    background-image: url(Pictures/Снимок\ 1.PNG);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     background-position-x: left;
@@ -50,7 +50,7 @@ a:active{
 }
 .Block1{
     height: 94vh;    
-    background-image: url(/Pictures/pic11.jpg);
+    background-image: url(Pictures/pic11.jpg);
     background-size:100% 100%;
     background-repeat: no-repeat;
 }
