@@ -218,18 +218,18 @@ hr{
     color:white;      
 }
 .win3_1{
-    background-image: url(../Pictures/pic1.jpg);
+    background-image: url(Pictures/pic1.jpg);
     background-size: cover;
     margin-left: 20px;
 }
 .win3_2{
-    background-image: url(../Pictures/pic2.jpg);
+    background-image: url(Pictures/pic2.jpg);
     background-size: cover;
     margin-left: 20px;
     
 }
 .win3_3{
-    background-image: url(../Pictures/pic31.jpg);
+    background-image: url(Pictures/pic31.jpg);
     background-size: cover;   
     margin-left: 20px;
     
@@ -264,7 +264,7 @@ hr{
 .block4{
     display: flex;
     height: 60vh;
-    background-image: url(../Pictures/pic4.jpg);
+    background-image: url(Pictures/pic4.jpg);
     background-size: cover;
     background-position: center;
     color: white;
@@ -330,49 +330,49 @@ section{
 }
 .sait1{
     grid-column: 1/2;
-    background-image: url(../Pictures/pic5_1.jpg); 
+    background-image: url(Pictures/pic5_1.jpg); 
     
     
 }
 .sait2{
     grid-column: 2/3;
-    background-image: url(../Pictures/pic5_2.jpg);
+    background-image: url(Pictures/pic5_2.jpg);
     background-size: 100% auto;      
 }
 .sait3{
     grid-column: 3/4;
-    background-image: url(../Pictures/pic5_6.jpg);
+    background-image: url(Pictures/pic5_6.jpg);
     background-size: 100% auto;    
 }
 .sait4{
     grid-column: 1/2;
     grid-row: 2/3;
-    background-image: url(../Pictures/pic5_4.jpg);
+    background-image: url(Pictures/pic5_4.jpg);
 }
 .sait5{
     grid-column: 2/3;
-    grid-row: 2/3;
-    background-image: url(../Pictures/pic5_5.jpg);
+    grid-row: 2/3
+    background-image: url(Pictures/pic5_5.jpg);
 }
 .sait6{
     grid-column: 3/4;
     grid-row: 2/3;
-    background-image: url(../Pictures/pic5_3.jpg);
+    background-image: url(Pictures/pic5_3.jpg);
 }
 .sait7{
     grid-column: 1/2;
     grid-row: 3/4;
-    background-image: url(../Pictures/pic5_7.jpg);
+    background-image: url(Pictures/pic5_7.jpg);
 }
 .sait8{
     grid-column: 2/3;
     grid-row: 3/4;
-    background-image: url(../Pictures/pic5_8.jpg);
+    background-image: url(Pictures/pic5_8.jpg);
 }
 .sait9{
     grid-column: 3/4;
     grid-row: 3/4;
-    background-image: url(../Pictures/pic5_9.jpg);
+    background-image: url(Pictures/pic5_9.jpg);
 }
 .global{
    
@@ -428,19 +428,19 @@ section{
 }
 
 .foto1{
-    background: linear-gradient(to top, #fb5f4363,rgba(255, 192, 203, 0) 50%), url(../Pictures/pic6_1.jpg);
+    background: linear-gradient(to top, #fb5f4363,rgba(255, 192, 203, 0) 50%), url(Pictures/pic6_1.jpg);
     background-size: cover;
 }
 .foto3{
-    background: linear-gradient(to top, #ad73f557, rgba(255, 192, 203, 0) 50%), url(../Pictures/pic6_3.jpg);
+    background: linear-gradient(to top, #ad73f557, rgba(255, 192, 203, 0) 50%), url(Pictures/pic6_3.jpg);
     background-size:cover;
 }
 .foto2{
-    background: linear-gradient(to top, #37c69469, rgba(255, 192, 203, 0) 50%), url(../Pictures/pic6_2.jpg);
+    background: linear-gradient(to top, #37c69469, rgba(255, 192, 203, 0) 50%), url(Pictures/pic6_2.jpg);
     background-size:cover;
 }
 .foto4{
-    background: linear-gradient(to top, #feb45977, rgba(255, 192, 203, 0) 50%), url(../Pictures/pic6_4.jpg);
+    background: linear-gradient(to top, #feb45977, rgba(255, 192, 203, 0) 50%), url(Pictures/pic6_4.jpg);
     background-size:cover;
 }
 .profession{    
@@ -519,24 +519,24 @@ section{
     display: none;      
 }
 .ot1:hover .foto1{
-    background: url(../Pictures/pic6_1.jpg);
+    background: url(Pictures/pic6_1.jpg);
     background-size: cover;
 }
 .ot2:hover .foto2{
-    background: url(../Pictures/pic6_2.jpg);
+    background: url(Pictures/pic6_2.jpg);
     background-size: cover;
 }
 .ot3:hover .foto3{
-    background: url(../Pictures/pic6_3.jpg);
+    background: url(Pictures/pic6_3.jpg);
     background-size: cover;
 }
 .ot4:hover .foto4{
-    background: url(../Pictures/pic6_4.jpg);
+    background: url(Pictures/pic6_4.jpg);
     background-size: cover;
 }
 footer{
     height:30vh;
-    background-image: url(../Pictures/pic72.jpg);
+    background-image: url(Pictures/pic72.jpg);
     background-size: cover;
     background-position-y: -150px;   
     background-repeat: no-repeat;
